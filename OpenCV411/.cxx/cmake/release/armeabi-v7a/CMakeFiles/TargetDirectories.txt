@@ -1,0 +1,3 @@
+C:/root/develop/android/HelloOpenCV/OpenCV411/.cxx/cmake/release/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir
+C:/root/develop/android/HelloOpenCV/OpenCV411/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/root/develop/android/HelloOpenCV/OpenCV411/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

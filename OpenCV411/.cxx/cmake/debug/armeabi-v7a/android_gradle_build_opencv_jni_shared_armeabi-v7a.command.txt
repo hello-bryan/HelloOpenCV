@@ -1,0 +1,8 @@
+Executable : C:\Users\sg\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\root\develop\android\HelloOpenCV\OpenCV411\.cxx\cmake\debug\armeabi-v7a
+--target
+opencv_jni_shared
+jvmArgs : 
+

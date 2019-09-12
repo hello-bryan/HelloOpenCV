@@ -1,0 +1,74 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\root\\develop\\android\\HelloOpenCV",
+      "sdkFolder": "C:\\Users\\sg\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\build\\intermediates",
+      "gradleModulePathName": ":OpenCV411",
+      "moduleRootFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411",
+      "makeFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\libcxx_helper\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\root\\develop\\android\\HelloOpenCV\\.cxx",
+      "cxxFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx",
+      "ndkFolder": "C:\\Users\\sg\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "17.0.4754217",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "opencv_jni_shared"
+    ]
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\root\\develop\\android\\HelloOpenCV\\OpenCV411\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}
