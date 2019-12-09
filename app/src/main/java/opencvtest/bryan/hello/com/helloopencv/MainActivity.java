@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     private final static String TAG = MainActivity.class.getClass().getSimpleName();
     private boolean isOpenCvLoaded = false;
-    private boolean isTest = false; // 추가 후 커밋!
+    private boolean isTest = false; // git 웹에서 수정함.
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
