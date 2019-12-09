@@ -1,14 +1,14 @@
-Executable : C:\Users\sg\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+Executable : C:\Users\82105\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
 arguments : 
--HC:\root\develop\android\HelloOpenCV\OpenCV411\libcxx_helper
--BC:\root\develop\android\HelloOpenCV\OpenCV411\.cxx\cmake\debug\x86
+-HC:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\libcxx_helper
+-BC:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\.cxx\cmake\debug\x86
 -DANDROID_ABI=x86
 -DANDROID_PLATFORM=android-21
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\root\develop\android\HelloOpenCV\OpenCV411\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\build\intermediates\cmake\debug\obj\x86
 -DCMAKE_BUILD_TYPE=Debug
--DANDROID_NDK=C:\Users\sg\AppData\Local\Android\Sdk\ndk-bundle
--DCMAKE_TOOLCHAIN_FILE=C:\Users\sg\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
--DCMAKE_MAKE_PROGRAM=C:\Users\sg\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-DANDROID_NDK=C:\Users\82105\AppData\Local\Android\Sdk\ndk\20.1.5948944
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\82105\AppData\Local\Android\Sdk\ndk\20.1.5948944\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\82105\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
 -GAndroid Gradle - Ninja
 -DANDROID_STL=c++_shared
 jvmArgs : 

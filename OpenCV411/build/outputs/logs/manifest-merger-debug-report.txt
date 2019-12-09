@@ -1,37 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
+ADDED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:1-6:12
 	package
-		ADDED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:3:7-27
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		ADDED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:3:7-27
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:5:7-34
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		ADDED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:5:7-34
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:4:7-33
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		ADDED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml:4:7-33
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
 uses-sdk
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-		ADDED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		ADDED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-		ADDED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
-		INJECTED from C:\root\develop\android\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		ADDED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml
+		INJECTED from C:\Users\82105\StudioProjects\HelloOpenCV\OpenCV411\java\AndroidManifest.xml

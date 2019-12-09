@@ -1,3 +1,3 @@
-C:/root/develop/android/HelloOpenCV/OpenCV411/.cxx/cmake/debug/x86/CMakeFiles/opencv_jni_shared.dir
-C:/root/develop/android/HelloOpenCV/OpenCV411/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
-C:/root/develop/android/HelloOpenCV/OpenCV411/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/82105/StudioProjects/HelloOpenCV/OpenCV411/.cxx/cmake/debug/x86/CMakeFiles/opencv_jni_shared.dir
+C:/Users/82105/StudioProjects/HelloOpenCV/OpenCV411/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/82105/StudioProjects/HelloOpenCV/OpenCV411/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
