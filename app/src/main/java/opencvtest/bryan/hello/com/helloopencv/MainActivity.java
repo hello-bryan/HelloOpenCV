@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
                     Imgproc.cvtColor(gray, gray, Imgproc.COLOR_RGBA2GRAY);
 
-                    Bitmap grayBitmap = Bitmap.createBitmap(gray.cols(), gray.rows(), null);
+                    Bitmap grayBitmap = Bitmap.createBitmap(gray.cols(), gray.rows(), Bitmap.Config.ARGB_8888);
                     Utils.matToBitmap(gray, grayBitmap);
 
                     imageView2.setImageBitmap(grayBitmap);
